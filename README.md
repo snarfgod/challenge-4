@@ -11,16 +11,16 @@ Jupyter Notebook is required for the risk_return_analysis.ipynb file to run.
 The following libraries and dependencies are required:
 
 ### Pandas
-'''import pandas as pd'''
+```import pandas as pd```
 
 ### Path from pathlib
-'''from pathlib import Path'''
+```from pathlib import Path```
 
 ### Numpy
-'''import numpy as np'''
+```import numpy as np```
 
 ### Matplotlib
-'''%matplotlib inline'''
+```%matplotlib inline```
 
 ## Contributors
 
