@@ -1,6 +1,6 @@
 # Challenge 4 - Whale Portfolio Analysis
 
---- This is a jupyter-notebook-written analysis of 4 whale-fund-portfolios (SOROS FUND MANAGEMENT LLC,PAULSON & CO.INC.,TIGER GLOBAL MANAGEMENT LLC,BERKSHIRE HATHAWAY INC).  They are compared against the S&P 500 in certain sections that calculate covariance. 
+--- This is a jupyter-notebook-written analysis of 4 whale-fund-portfolios (SOROS FUND MANAGEMENT LLC,PAULSON & CO.INC.,TIGER GLOBAL MANAGEMENT LLC,BERKSHIRE HATHAWAY INC).  They are compared against the S&P 500 in certain sections that calculate covariance and beta. 
 
 ## Technologies
 
